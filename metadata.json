@@ -1,0 +1,6 @@
+{
+  "name": "EL NIÑO — Agricultural Risk & Early Warning System",
+  "description": "AI-Powered Climate Risk & Early Warning System for Soybean Farming in Maharashtra, India. Global Climate Signals. Local Agricultural Action.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
